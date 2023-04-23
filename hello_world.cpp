@@ -1,6 +1,6 @@
 /****************************************************
  * Program:
- *    CS124 Review #1.10 , Hello World
+ *    Hello World!
  * Author:
  *    Jaxon Hamm
  * Summary:
